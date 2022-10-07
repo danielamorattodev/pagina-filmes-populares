@@ -19,7 +19,7 @@ Por último, utilizei os comandos do Git para enviar os arquivos para o resposit
 
 ### :camera_flash: Prévia da Página criada deste repositório:
 
-
+![pagina-filmes-polulares](https://user-images.githubusercontent.com/74005813/194572420-c991dd66-cd8b-41a1-b687-2e0b931e7c09.jpg)
 
 
 

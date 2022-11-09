@@ -27,7 +27,10 @@ Seguindo com as edições de arquivo a partir da IDE, o mesmo filme está sendo 
 * Por último, criei o commit proposto e enviei o projeto atualizado para o GitHub através dos comandos de Git.
 
 ### :camera_flash: Prévia da Página - Desafio 2:
+![Desafio 2](https://user-images.githubusercontent.com/74005813/200876931-e1292187-02a0-4975-904d-933802d92d3b.jpg)
 
+
+___
 ### :computer: Tecnologias Usadas:
 * Visual Studio Code
 * HTML e CSS

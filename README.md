@@ -1,6 +1,6 @@
 # :pushpin: Desafio 7daysofcode Alura - Git e GitHub
 
-## :dart: Desafio 1:
+## :dart: Desafio 1: Criando um repositórion e adicionando um projeto.
 
 Criar um repositório com os arquivos HTML e CSS de um template de página, feito diretamente a partir da própria página repositório no GitHub, 
 copiando e colando o código manualmente. Assim que cada arquivo fosse criado, deveria ser realizar o commit do mesmo, ao final da página. 
@@ -17,7 +17,7 @@ A segunda parte do desafio era fazer o upload de uma pasta "imagens" para o repo
 
 ![pagina-filmes-polulares](https://user-images.githubusercontent.com/74005813/194572420-c991dd66-cd8b-41a1-b687-2e0b931e7c09.jpg)
 
-## :dart: Desafio 2:
+## :dart: Desafio 2: Cloinando um repositório e realizando um commit a partir do VSCode.
 Seguindo com as edições de arquivo a partir da IDE, o mesmo filme está sendo repetido três vezes, o texto de descrição não tem nada relevante e a imagem também está igual para todos. O desafio é alterar o arquivo "index.html" a partir do Visual Studio Code para que se tenha três filmes diferentes, cada um com a sua descrição, imagem e nota correspondente, salvar e realizar o commit.
 
 ## :white_check_mark: :bulb: Minha solução - Desafio 2:

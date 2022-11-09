@@ -24,7 +24,7 @@ Seguindo com as edições de arquivo a partir da IDE, o mesmo filme está sendo 
 * Para realizar o desafio, fiz a clonagem do repositório do GitHub para o Visual Studio Code.
 * Realizei as alterações dos filmes, selecionando os 3 filmes estreados no cinema que assisti e mais gostei de 2022, indexando as devidas imagens e suas descrições.
 * Atualizei as imagens de icones que haviam sido clonadas para manter a estética do template.
-* Por último, criei o commit proposto e enviei o projeto atualizado para o GitHub através dos comandos de Git.
+* Por último, criei o commit proposto e enviei o projeto atualizado para o GitHub através do Terminal da IDE usando os comandos de Git.
 
 ### :camera_flash: Prévia da Página - Desafio 2:
 ![Desafio 2](https://user-images.githubusercontent.com/74005813/200876931-e1292187-02a0-4975-904d-933802d92d3b.jpg)

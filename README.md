@@ -31,7 +31,7 @@ Seguindo com as edições de arquivo a partir da IDE, o mesmo filme está sendo 
 
 
 ___
-### :computer: Tecnologias Usadas:
+### :computer: Tecnologias e ferramentas usadas:
 * Visual Studio Code
 * HTML e CSS
 * Git e GitHub

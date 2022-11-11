@@ -43,6 +43,10 @@ Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou
 
 ### :camera_flash: Prévia da Página - Desafio 3:
 
+![erro](https://user-images.githubusercontent.com/74005813/201416316-35a33fa7-2d7b-4dfa-84a0-2ac5754fed44.jpg)
+![erro github](https://user-images.githubusercontent.com/74005813/201416325-47c1c6c3-b531-441f-b0aa-f07f50b4fcf6.jpg)
+![revert](https://user-images.githubusercontent.com/74005813/201416333-58d124e6-4cd5-4223-a089-8b6f72ca2ccf.jpg)
+
 ___
 ### :computer: Tecnologias e ferramentas usadas:
 * Visual Studio Code

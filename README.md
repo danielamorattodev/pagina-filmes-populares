@@ -6,17 +6,17 @@ Para fortalecer e fixar melhor meus aprendizados sobre o Git e GitHub. Usando a 
 
 ### :eyes: O que foi visto durante o desafio:
 
-* **Desafio 1:**
+* [**Desafio 1:**](https://github.com/danielamorattodev/pagina-filmes-populares/blob/master/Desafio%201/desafio1.md)
 
 Criar manualmente o seu repositório no GitHub e alterar o arquivo ReadMe.
 Relembrar como subir manualmente arquivos e imagens para o repositório recém-criado do GitHub.
 
-* **Desafio 2:**
+* [**Desafio 2:**](https://github.com/danielamorattodev/pagina-filmes-populares/blob/master/Desafio%202/desafio2.md)
 
 Usando a IDE do Visual Studio Code, clonar o repositório criado no GitHub para editá-lo localmente, na IDE. 
 Alterar o código para deixá-lo mais personalizado e realizar o commit dessas alterações, usando comandos no Terminal do Visual Studio Code.
 
-* **Desafio 3:**
+* [**Desafio 3:**](https://github.com/danielamorattodev/pagina-filmes-populares/blob/master/Desafio%203/desafio3.md)
 
 Criação e publicação no repositório de um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código.
 

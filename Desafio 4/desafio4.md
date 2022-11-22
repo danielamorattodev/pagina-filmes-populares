@@ -12,3 +12,10 @@ Realize o commit e tente dar o push. O seu desafio, será resolver esse conflito
 ---
 
 ### :camera_flash: Prévia da Página - Desafio 3:
+
+* Confirmação do conflito:
+![erro de push](https://user-images.githubusercontent.com/74005813/203352266-155fa586-f015-4596-93f7-e213dee85283.jpg)
+
+
+* Resolução do conflito usando Source Control do VSCode e confirmação pelo Terminal:
+![resolução](https://user-images.githubusercontent.com/74005813/203352275-4aa127c9-2e50-4128-8f8f-e15e82bf83db.jpg)

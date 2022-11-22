@@ -20,7 +20,7 @@ Alterar o código para deixá-lo mais personalizado e realizar o commit dessas a
 
 Criação e publicação no repositório de um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código.
 
-* **Desafio 4:**
+* [**Desafio 4:**](https://github.com/danielamorattodev/pagina-filmes-populares/blob/master/Desafio%204/desafio4.md)
 
 Lidar com conflitos. Inicialmente, forçar um commit a partir de duas fontes diferentes, resolver esse conflito e fazer um commit do resultado do merge.
 

@@ -24,9 +24,6 @@ Criação e publicação no repositório de um commit errado e, posteriormente, 
 
 Lidar com conflitos. Inicialmente, forçar um commit a partir de duas fontes diferentes, resolver esse conflito e fazer um commit do resultado do merge.
 
-* **Desafio 5**
-
-Última etapa: colocar o seu projeto em produção usando o GitHub Pages do próprio GitHub.
 
 ___
 ### :computer: Tecnologias e ferramentas usadas:
